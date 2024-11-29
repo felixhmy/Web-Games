@@ -1,0 +1,27 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+body { 
+    background-image: url("../assets/background.png");
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    background-color: rgba(31, 31, 31, 0.75);
+    background-blend-mode:color;
+}
+
+canvas {
+    border: solid 1px black;
+    background-color: white;
+    display: block;
+    margin: 20px auto;
+    border-radius: 30px;
+}
+
