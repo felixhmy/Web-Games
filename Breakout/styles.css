@@ -1,0 +1,18 @@
+* {
+    /* Zona basica del borrado de datos "preestablecidos" */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* Declaración del color de fondo de la página, fuera del canvas */ 
+   background-color: rgb(97, 96, 96);
+    text-align: center;
+}
+
+canvas {
+    /* Declaración de los aspectos básicos del canvas */ 
+    border: solid 3px black;
+    margin-top: 20px;
+}
