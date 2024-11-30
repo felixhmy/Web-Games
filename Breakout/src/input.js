@@ -1,3 +1,6 @@
+// Autor: felixhmy 
+// Todos los derechos reservados © 2025 
+
 //Hoja de la asignación de teclas y su introducción en el programa
 var lastPress = null;
 

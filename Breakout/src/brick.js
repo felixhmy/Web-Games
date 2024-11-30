@@ -1,3 +1,6 @@
+// Autor: felixhmy 
+// Todos los derechos reservados © 2025 
+
 // Se declara la clase de los ladrillos del juego
 class Brick
 {

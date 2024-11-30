@@ -1,3 +1,6 @@
+// Autor: felixhmy 
+// Todos los derechos reservados © 2025 
+
 //Se declara la variable de la tabla del jugador
 var player = { 
     position: {x: 0, y: 0},

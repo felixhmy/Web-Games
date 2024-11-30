@@ -1,3 +1,6 @@
+// Autor: felixhmy 
+// Todos los derechos reservados © 2025 
+
 class Enemy
 {
 	constructor(position, rotation, life, image)

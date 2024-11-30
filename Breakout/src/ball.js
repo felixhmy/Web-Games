@@ -1,3 +1,6 @@
+// Autor: felixhmy 
+// Todos los derechos reservados © 2025 
+
 // Clase de la pelota del juego
 class Ball
 {

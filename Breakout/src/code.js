@@ -1,3 +1,6 @@
+// Autor: felixhmy 
+// Todos los derechos reservados © 2025 
+
 //Código general donde se desarrolla en juego
 
 //Declaración de variables

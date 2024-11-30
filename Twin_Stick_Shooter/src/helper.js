@@ -1,3 +1,6 @@
+// Autor: felixhmy 
+// Todos los derechos reservados © 2025 
+
 const PI2 = Math.PI * 2;
 const PIH = Math.PI / 2;
 const degToRad = Math.PI / 180;

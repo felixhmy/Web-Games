@@ -1,3 +1,6 @@
+// Autor: felixhmy 
+// Todos los derechos reservados © 2025 
+
 //Hoja de codigos matemáticos que ayudan al funcionamiento del programa
 
 const PI2 = Math.PI * 2;

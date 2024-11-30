@@ -1,3 +1,6 @@
+// Autor: felixhmy 
+// Todos los derechos reservados © 2025 
+
 var b2Vec2 = Box2D.Common.Math.b2Vec2
     ,   b2AABB = Box2D.Collision.b2AABB
     ,   b2BodyDef = Box2D.Dynamics.b2BodyDef
