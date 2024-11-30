@@ -73,7 +73,3 @@ El jugador puede disparar pulsando el ESPACIO y moverse a traves del WASD o las 
 - `src/player.js`: Contiene la lógica del jugador.
 - `src/bullet.js`: Contiene la lógica de las balas.
 - `src/enemy.js`: Contiene la lógica de los enemigos.
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
